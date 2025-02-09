@@ -1,1 +1,1 @@
-{"name":"Local: integers","url":"/home/aarya/code/waves/graphs/integers.cpp","tests":[{"id":1738884735695,"input":"6\n1\n3\n5\n100\n999\n1000","output":"First\nSecond\nFirst\nFirst\nSecond\nFirst\n\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/aarya/code/waves/graphs/integers.cpp","group":"local","local":true}
+{"name":"Local: integers","url":"/home/aarya/code/waves/graphs/integers.cpp","tests":[],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/aarya/code/waves/graphs/integers.cpp","group":"local","local":true}
